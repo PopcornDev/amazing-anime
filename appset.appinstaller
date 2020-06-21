@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2017"
+    Version="1.0.0.0" 
+    Uri="https://PopcornDev.github.io/amazing-anime/appset.appinstaller">
+    <MainBundle 
+        Name="49177PopcornMedia.AmazingAnime"
+        Publisher="CN=C7BD537F-882B-42DB-BAE7-41D7FBADFB66"
+        Version="2.0.2.0"
+        Uri="https://www.dropbox.com/s/idx8z2816crw84z/AmazingAnime_2.0.2.0?dl=1" />
+</AppInstaller>
